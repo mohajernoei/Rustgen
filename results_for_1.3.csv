@@ -1,0 +1,7 @@
+Model,Pass@k,Estimate
+fine tuned1.3b,1,0.164103
+fine tuned1.3b,10,0.429487
+fine tuned1.3b,100,1
+Base1.3b,1,0.124359
+Base1.3b,10,0.435897
+Base1.3b,100,1
